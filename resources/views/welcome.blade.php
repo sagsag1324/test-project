@@ -94,6 +94,7 @@
                     <a href="https://vapor.laravel.com">Vapor</a>
                     <a href="https://github.com/laravel/laravel">GitHub</a>
                 </div>
+                <x-form/>
                 <x-sidebar title="Side Title" :params="$params"/>
             </div>
         </div>
